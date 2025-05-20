@@ -1,5 +1,5 @@
 import express from 'express'
-import controlador from '../controlador/libros.js'
+import controlador from '../controlador/libros.controlador.js'
 
 
 const router = express.Router()

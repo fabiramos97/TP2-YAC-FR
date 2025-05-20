@@ -1,4 +1,4 @@
-import model from "../model/libros.js";
+import model from "../model/libros.model.js";
 
 const obtenerLibros = (id) => {
   if (id) {

@@ -1,4 +1,4 @@
-import servicio from "../servicio/libros.js";
+import servicio from "../servicio/libros.servicio.js";
 
 const obtenerLibros = (req, res) => {
   const { id } = req.params;

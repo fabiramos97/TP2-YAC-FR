@@ -1,5 +1,5 @@
 import express from "express";
-import routerLibros from "./router/libros.js";
+import routerLibros from "./router/libros.router.js";
 
 // -----------------------------------------------
 //             APLICACIÓN EXPRESS
